@@ -108,3 +108,6 @@ Add your dockerhub username and docker password
   install automatically Dadd installer Odownload from docker.com
   
   Click on apply & save it
+
+  ## SETUP CI
+  
