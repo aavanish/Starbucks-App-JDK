@@ -116,5 +116,5 @@ Add your dockerhub username and docker password
   ## SETUP CI
   Create a job > new item > item name - CD Pipeline > Pipeline script from SCM
 
-  paste pipeline script and perform modifications in docker username and git pipeline syntax
+  paste script CD present in the git repo and perform modifications in docker username and git pipeline syntax
   
