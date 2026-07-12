@@ -76,3 +76,35 @@ Add your dockerhub username and docker password
 
 <img width="230" height="257" alt="image" src="https://github.com/user-attachments/assets/ad06136c-fb76-4c88-90ad-b80fc4137e4b" />
 
+## Go to manage Jenkins > Tools and configure tools
+### 1. Java installation
+ 
+  Add jdk 
+  
+  name - jdk17
+  
+  click on install automatically 
+  
+  add installer select install form adoptiam.net
+  
+  verison17.0.8.1+1
+
+### 2. nodejs installation
+   
+  Add nodejs
+  
+  name - node16
+  
+  install automatically
+  
+  version nodejs 16.20.0
+
+### 3- docker installation
+
+  Add docker 0
+  
+  name -docker
+  
+  install automatically Dadd installer Odownload from docker.com
+  
+  Click on apply & save it
