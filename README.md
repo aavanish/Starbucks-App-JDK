@@ -1,3 +1,8 @@
+### Project Description
+
+Starbucks Corporation is an American multinational chain of coffeehouses and roastery reserves
+headquartered in Seattle, Washington
+
 <img width="1892" height="965" alt="image" src="https://github.com/user-attachments/assets/5efa0557-6745-457f-8043-210cb9ab11df" />
 
 # Prerequesite
