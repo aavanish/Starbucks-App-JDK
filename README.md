@@ -1,3 +1,5 @@
+<img width="1892" height="965" alt="image" src="https://github.com/user-attachments/assets/5efa0557-6745-457f-8043-210cb9ab11df" />
+
 # Prerequesite
 1. AWS Account
 2. Dockerhub Acount
@@ -113,8 +115,15 @@ Add your dockerhub username and docker password
   Create a job > new item > item name - CI Pipeline > Pipeline script from SCM
   <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/f7cbae76-3433-4318-801b-1d0d5ea20796" />
 
-  ## SETUP CI
-  Create a job > new item > item name - CD Pipeline > Pipeline script from SCM
+  ## SETUP CD
+  Create a job > new item > item name - Starbucks app > Pipeline script from SCM
 
-  paste script CD present in the git repo and perform modifications in docker username and git pipeline syntax
+  paste script CD present in the git repo and perform modifications in dockerhub username and git pipeline syntax
+  MAKE SURE YOU ARE USING YOUR DOCKERHUB USERNAME IN PIPELINES.
+
+  Browse for <Public IP>:3000 
+
+  This approach run both the pipelines separately i.e. continuous delivery. 
+
+  To make this as continuous deployment, Starbucks app (CD Pipeline) > Configure > Trigger > Build after other projects are built > Select CI pipeline.
   
