@@ -110,4 +110,11 @@ Add your dockerhub username and docker password
   Click on apply & save it
 
   ## SETUP CI
+  Create a job > new item > item name - CI Pipeline > Pipeline script from SCM
+  <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/f7cbae76-3433-4318-801b-1d0d5ea20796" />
+
+  ## SETUP CI
+  Create a job > new item > item name - CD Pipeline > Pipeline script from SCM
+
+  paste pipeline script and perform modifications in docker username and git pipeline syntax
   
